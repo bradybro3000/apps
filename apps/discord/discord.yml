@@ -1,5 +1,11 @@
 name: Discord
-description: 'All-in-one voice, text and video chat for gamers'
+description: 'All-in-one voice, text and video chat for gamers.
+Includes:
+
+Public guilds and communities which can bring players together.
+Direct Messaging as well as Overlays for games.
+Subscription service known as Discord Nitro
+Profile badges and more...'
 website: 'http://discordapp.com'
 keywords:
     - chat
